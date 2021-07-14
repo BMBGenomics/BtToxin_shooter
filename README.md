@@ -1,1 +1,1 @@
-# BtToxin_shooter
+# BtToxin_shooter, a tool for Bt toxin target prediction
